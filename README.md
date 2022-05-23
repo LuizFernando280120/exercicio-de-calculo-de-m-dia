@@ -1,6 +1,6 @@
 # exercicio-de-calculo-de-m-dia
 
-# Exercicio destinado ao professor Daniel Ohata :)
+# Repositório do Exercício destinado ao professor Daniel Ohata :)
 
 # ALGORÍTIMO DO EXERCÍCIO
 
