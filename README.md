@@ -1,8 +1,8 @@
 # exercicio-de-calculo-de-m-dia
 
-# Exercicio destinado ao professor Daniel Ohata
+# Exercicio destinado ao professor Daniel Ohata :)
 
-# ALGORITIMO DO EXERCICIO
+# ALGORÍTIMO DO EXERCÍCIO
 
 Digitar a da nota AC1 
 
