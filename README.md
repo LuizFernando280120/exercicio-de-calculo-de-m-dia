@@ -14,7 +14,9 @@ Digitar a nota da AG
 
 Digitar a nota da AF
 
-Calcular a Média Final Se Valor da média é Maior ou Igual a 5? 
+Calcular a Média Final 
+
+Se Valor da média é Maior ou Igual a 5? 
 
 Faça Informar que o aluno foi Aprovado Senão Informar que o aluno foi Reprovado
 
