@@ -22,7 +22,7 @@ public class ExercicioCalcMedia {
         //Calculo da Media Final
         double notaf = ( AC1 * 0.15 ) + (AC2 * 0.30) + (AG * 0.10) + (AF * 0.45);
 
-        //Condicional para identificação se o aluno foi Aprovado ou Reprovado
+        //Condicional pra identificar se o aluno foi aprovado ou reprovado
         if (notaf >= 5) 
         { System.out.printf("Voce foi aprovado com " + notaf + " de media!"); }
 
